@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Programming Hero\\Projects\\University-Management-System\\university-management-backend\\university-management-auth-service-main\\logs\\winston\\successes\\.57cc4bf2b7d97fabfffebda4bf6d417ddfe0c945-audit.json",
+    "files": [
+        {
+            "date": 1714466381607,
+            "name": "E:\\Programming Hero\\Projects\\University-Management-System\\university-management-backend\\university-management-auth-service-main\\logs\\winston\\successes\\phu-2024-30-04-14-success.log",
+            "hash": "4e9e0f9e06f1a0aa19ce0286c67cf89a6dfb222fd92a4f007ada9ae00c891cdc"
+        },
+        {
+            "date": 1714468968125,
+            "name": "E:\\Programming Hero\\Projects\\University-Management-System\\university-management-backend\\university-management-auth-service-main\\logs\\winston\\successes\\phu-2024-30-04-15-success.log",
+            "hash": "153b903350a4d0240678b5befb4b81a97078fe4aa85d5ef63c0ba3110d806f49"
+        },
+        {
+            "date": 1714484117413,
+            "name": "E:\\Programming Hero\\Projects\\University-Management-System\\university-management-backend\\university-management-auth-service-main\\logs\\winston\\successes\\phu-2024-30-04-19-success.log",
+            "hash": "6513eac35cc43969cdcc3d6d36c8e37566ede0fcaadeebb6a114bfb7bf988d43"
+        },
+        {
+            "date": 1714486104563,
+            "name": "E:\\Programming Hero\\Projects\\University-Management-System\\university-management-backend\\university-management-auth-service-main\\logs\\winston\\successes\\phu-2024-30-04-20-success.log",
+            "hash": "977d646140b274cdda45924e33dbe1ca6ad090b17845a18a6fdba515f81ecddd"
+        }
+    ],
+    "hashType": "sha256"
+}
